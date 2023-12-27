@@ -16,5 +16,10 @@ namespace Tyuiu.KomarovMA.Sprint7.V15
         {
             InitializeComponent();
         }
+
+        private void pictureBoxManual_KMA_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

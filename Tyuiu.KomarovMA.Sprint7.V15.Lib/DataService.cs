@@ -9,7 +9,7 @@ namespace Tyuiu.KomarovMA.Sprint7.V15.Lib
     public class DataService
     { 
 
-        public static string Text = "";
+        
         public int People(string[,] array)
         {
             return array.GetLength(0);

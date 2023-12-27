@@ -45,6 +45,7 @@ namespace Tyuiu.KomarovMA.Sprint7.V15
             this.pictureBoxManual_KMA.Size = new System.Drawing.Size(560, 333);
             this.pictureBoxManual_KMA.TabIndex = 0;
             this.pictureBoxManual_KMA.TabStop = false;
+            this.pictureBoxManual_KMA.Click += new System.EventHandler(this.pictureBoxManual_KMA_Click);
             // 
             // FormManual_KMA
             // 
